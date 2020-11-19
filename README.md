@@ -1,0 +1,1 @@
+# strproduct1
